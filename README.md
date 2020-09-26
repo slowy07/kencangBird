@@ -29,7 +29,7 @@ python3 kencangBird.py
 bird_move -=6
 ```
 ## pipe moving
-***pipe moving** can change on line **36**
+**pipe moving** can change on line **36**
 ```python
 p.centerx -= 3
 ```
